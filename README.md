@@ -4,6 +4,21 @@ A scalable End-to-End Test Automation Framework built using **Playwright**, **Ty
 
 This project demonstrates industry-standard automation practices, including UI testing, API testing, reusable framework components, JSON-based test data management, and CI/CD integration with GitHub Actions.
 
+# 🚀 Playwright Automation Framework with TypeScript
+
+![Playwright](https://img.shields.io/badge/Playwright-Automation-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
+![Node.js](https://img.shields.io/badge/Node.js-20+-green)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-success)
+![Jenkins](https://img.shields.io/badge/CI-Jenkins-red)
+![API Testing](https://img.shields.io/badge/API-Testing-orange)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+## 📖 Overview
+
+This project is an end-to-end automation testing framework built using **Playwright** and **TypeScript** following the **Page Object Model (POM)** design pattern.
+
+The framework automates an E-commerce web application and demonstrates UI automation, API testing, reusable utilities, GitHub Actions, Jenkins CI/CD integration, reporting, and scalable enterprise-level test architecture.
 ---
 
 # 📋 Table of Contents
