@@ -1,0 +1,20 @@
+{
+  "name": "shopsphere-playwright",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "playwright test",
+    "headed": "playwright test --headed",
+    "chrome": "playwright test --project=chromium",
+    "firefox": "playwright test --project=firefox",
+    "webkit": "playwright test --project=webkit",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.0.0",
+    "typescript": "^5.8.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
